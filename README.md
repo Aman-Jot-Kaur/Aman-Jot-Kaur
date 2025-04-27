@@ -1,67 +1,58 @@
-<h1 align="center">Hi 👋, I'm Amanjot Kaur</h1>
-<h3 align="center">Full Stack Developer | React | Node.js | Next.js | React Native | TypeScript</h3>
-<p align="center">🌟 1.5+ years of building production-grade web & mobile applications with modern JavaScript stacks. Passionate about crafting scalable, secure, and user-centric digital experiences. Based in Gurugram, India — Open to remote and relocation opportunities worldwide. 🌎</p>
+<h1 align="center">Hi , I'm Amanjot Kaur</h1>
 
----
-
-### 🚀 Professional Experience:
-
-- **Full Stack Developer | Detechie Digital**
-  - Architected and optimized backend systems with **Node.js**, **Express.js**, and **MongoDB** to automate workflows and enable real-time student data sync.
-  - Developed and deployed **RESTful APIs** and **webhook-driven workflows** for event-based communication between payment, CRM, and automation tools.
-  - Built responsive **web** and **mobile** apps using **React**, **Bootstrap**, and **React Native**, enhancing cross-device accessibility.
-  - Deployed scalable applications on **Heroku**, ensured production reliability, and mentored junior developers on backend best practices.
-
-- **Full Stack Developer | JDB Infotech**
-  - Designed and deployed a cybersecurity product to enable **safer browsing experiences**.
-  - Mentored a team of **15 developer interns**, guiding them across the entire lifecycle from **design to deployment** of full-stack websites.
-
-- **Full Stack Developer | Zenmonk Technologies**
-  - Developed responsive websites using **React**, **Material-UI**, **TypeScript**, and implemented **i18n internationalization** support.
-  - Engineered robust backend APIs with **Express.js**, **MongoDB**, and **PostgreSQL** — following **OpenAPI** standards and secure encryption practices.
-  - Optimized system communication with **RabbitMQ**, containerized microservices with **Docker**, and accelerated performance with **Next.js** (SSR + SSG).
-
----
-
-### 📫 How to reach me:
-- **Email:** [amanjotkn@gmail.com](mailto:amanjotkn@gmail.com)
-- **LinkedIn:** [Amanjot Kaur](https://linkedin.com/in/amanjotkaur31)
-- **LeetCode:** [amanjot_kaur](https://www.leetcode.com/amanjot_kaur)
-
----
-
-### 🛠️ Tech Stack & Tools:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-jot-kaur&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+🚀 Full Stack Developer | React | Next.js | Node.js | React Native | TypeScript <br/>
+🌎 Based in Gurgaon | Open to Relocation and Remote Opportunities
 </p>
 
 ---
 
+### 👩‍💻 About Me
+- 💻 Passionate Full Stack Developer with **1.5+ years** of professional experience building scalable web and mobile applications.
+- 🌟 Strong in **React, Next.js, Node.js, React Native**, and **TypeScript**.
+- 📚 I love crafting clean, efficient code and continuously learning new technologies.
+- 🎓 Graduated with **9.78 CGPA**, fueled by curiosity and commitment.
+- 🌏 Dreaming of creating tech that makes life better, smoother, and a little more beautiful ✨.
+
+---
+
+### 🛠️ Tech Stack
+**Frontend:** React.js, Next.js, React Native, TypeScript, Redux, Material UI, Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js, MongoDB, PostgreSQL, RabbitMQ, Docker, Redis, Firebase  
+**Tools & Platforms:** Git, Heroku, AWS, Figma, Postman, Linux, Nginx  
+
+---
+
+### 💼 Professional Journey
+
+**Full Stack Developer — Detechie Digital**  
+- Developed and optimized backend systems (Node.js, Express.js, MongoDB).  
+- Built RESTful APIs, webhook workflows for real-time student data sync and payment automation.  
+- Designed and deployed responsive web and mobile interfaces with React, Bootstrap, and React Native.  
+- Deployed scalable apps on Heroku and mentored junior developers.
+
+**Full Stack Developer — JDB Infotech**  
+- Built a cybersecurity-focused product for safer browsing.
+- Mentored and led a team of **15 developer interns** to deliver full-stack projects.
+
+**Full Stack Developer — Zenmonk**  
+- Developed multilingual websites with **React, MUI, TypeScript, i18n** for international clients.
+- Built backend systems with **Express, MongoDB, PostgreSQL**, secured data via encryption.
+- Implemented **RabbitMQ**, **Docker**, and **Next.js** for performance optimization.
+
+---
+
+### 📬 Connect with Me
+<a href="https://linkedin.com/in/amanjotkaur31" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/amanjot_kaur" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
+</a>
+
+📧 **amanjotkn@gmail.com**
+
+---
+
+### ⚡ Fun Fact
+I believe the right playlist + good food + cozy coding space = unstoppable creative energy 💻🎶🍕✨
