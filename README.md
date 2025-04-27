@@ -1,62 +1,67 @@
-<h1 align="center">Hi 👋, I'm Amanjot Kaur</h1>
+<h1 align="center">
+  Hi 👋, I'm Amanjot Kaur
+</h1>
 
 <p align="center">
-🚀 Full Stack Developer | React | Next.js | Node.js | React Native | TypeScript <br/>
-🌎 Based in Gurgaon | Open to Relocation and Remote Opportunities
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+</p>
+
+<h3 align="center">
+  🚀 Full Stack Developer | Dreamer | Creator 
+</h3>
+
+---
+
+### ✨ About Me
+- 🔥 A passionate Full Stack Developer with **1.5+ years** of experience building web and mobile applications.
+- 🎓 Proud graduate with **9.78 CGPA**, fueled by *curiosity, passion, and chai* ☕.
+- 🛠️ Love working with **React, Next.js, Node.js, TypeScript, MongoDB, React Native** and more!
+- 🎯 Big believer in creating *tech that feels like magic* — clean, impactful, and ✨beautiful✨.
+- 🌍 Currently based in Gurgaon, living the dream of cozy flats, fairy lights, and endless learning.
+
+---
+
+### 🛠️ Tech Toolbox & Weapons
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,mongodb,postgresql,typescript,javascript,html,css,tailwind,docker,figma,git" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
-- 💻 Passionate Full Stack Developer with **1.5+ years** of professional experience building scalable web and mobile applications.
-- 🌟 Strong in **React, Next.js, Node.js, React Native**, and **TypeScript**.
-- 📚 I love crafting clean, efficient code and continuously learning new technologies.
-- 🎓 Graduated with **9.78 CGPA**, fueled by curiosity and commitment.
-- 🌏 Dreaming of creating tech that makes life better, smoother, and a little more beautiful ✨.
+### 🌟 My Journey So Far
+
+| Company | Role | Highlights |
+|--------|------|------------|
+| **Detechie Digital** | Full Stack Developer | Built scalable apps with Node.js, React, MongoDB. Created payment workflows & APIs. Mentored juniors. |
+| **JDB Infotech** | Full Stack Developer | Built cybersecurity product. Led and mentored **15 interns**. |
+| **Zenmonk** | Full Stack Developer | Built multilingual websites with React & Next.js, used RabbitMQ, Docker, PostgreSQL, and secured backend systems. |
 
 ---
 
-### 🛠️ Tech Stack
-**Frontend:** React.js, Next.js, React Native, TypeScript, Redux, Material UI, Tailwind CSS, Bootstrap  
-**Backend:** Node.js, Express.js, MongoDB, PostgreSQL, RabbitMQ, Docker, Redis, Firebase  
-**Tools & Platforms:** Git, Heroku, AWS, Figma, Postman, Linux, Nginx  
-
----
-
-### 💼 Professional Journey
-
-**Full Stack Developer — Detechie Digital**  
-- Developed and optimized backend systems (Node.js, Express.js, MongoDB).  
-- Built RESTful APIs, webhook workflows for real-time student data sync and payment automation.  
-- Designed and deployed responsive web and mobile interfaces with React, Bootstrap, and React Native.  
-- Deployed scalable apps on Heroku and mentored junior developers.
-
-**Full Stack Developer — JDB Infotech**  
-- Built a cybersecurity-focused product for safer browsing.
-- Mentored and led a team of **15 developer interns** to deliver full-stack projects.
-
-**Full Stack Developer — Zenmonk**  
-- Developed multilingual websites with **React, MUI, TypeScript, i18n** for international clients.
-- Built backend systems with **Express, MongoDB, PostgreSQL**, secured data via encryption.
-- Implemented **RabbitMQ**, **Docker**, and **Next.js** for performance optimization.
-
----
-
-### 🤝 Let's Connect!
-
+### 🌈 Let's Connect!
 <p align="center">
   <a href="https://linkedin.com/in/amanjotkaur31" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Amanjot%20Kaur-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Amanjot%20Kaur-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://leetcode.com/amanjot_kaur" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Amanjot-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-Amanjot-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:amanjotkn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-amanjotkn@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-amanjotkn@gmail.com-ff4c68?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
+### 🚀 Quick Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanjotkaur31&show_icons=true&theme=radical" alt="Amanjot's github stats" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=FF61D5&center=true&vCenter=true&width=435&lines=Creating+magic+with+code+%F0%9F%92%9A;Learning+everyday+%F0%9F%8C%9F;Building+my+dream+life+one+commit+at+a+time+%F0%9F%8C%8D" alt="Typing SVG" />
+</p>
