@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Amanjot Kaur</h1>
+<h1 align="center">Hi 👋, I'm Amanjot Kaur</h1>
 
 <p align="center">
 🚀 Full Stack Developer | React | Next.js | Node.js | React Native | TypeScript <br/>
@@ -42,17 +42,21 @@
 
 ---
 
-### 📬 Connect with Me
-<a href="https://linkedin.com/in/amanjotkaur31" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/amanjot_kaur" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
-</a>
+### 🤝 Let's Connect!
 
-📧 **amanjotkn@gmail.com**
+<p align="center">
+  <a href="https://linkedin.com/in/amanjotkaur31" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amanjot%20Kaur-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/amanjot_kaur" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Amanjot-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="mailto:amanjotkn@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-amanjotkn@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### ⚡ Fun Fact
-I believe the right playlist + good food + cozy coding space = unstoppable creative energy 💻🎶🍕✨
