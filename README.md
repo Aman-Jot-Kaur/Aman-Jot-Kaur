@@ -1,21 +1,67 @@
 <h1 align="center">Hi 👋, I'm Amanjot Kaur</h1>
-<h3 align="center">Full Stack Developer (React/Node.js) | Next.js | React Native | TypeScript | 1.5+ Years Building Production websites Passionate about building scalable web & mobile applications with modern JavaScript stacks. Based in Gurugram , Open to relocate and remote opportunities worldwide.</h3>
+<h3 align="center">Full Stack Developer | React | Node.js | Next.js | React Native | TypeScript</h3>
+<p align="center">🌟 1.5+ years of building production-grade web & mobile applications with modern JavaScript stacks. Passionate about crafting scalable, secure, and user-centric digital experiences. Based in Gurugram, India — Open to remote and relocation opportunities worldwide. 🌎</p>
 
-- 👨‍💻 Full Stack Developer : Detechie Digital **• Developed and optimized backend systems using Node.js, Express.js, and MongoDB, enabling seamless integration of internal tools and applications for automated workflows and real-time student data synchronization. • Developed and deployed RESTful APIs and webhook-based workflows to facilitate event-driven communication between multiple systems, including payment automation and secure data processing. • Designed and implemented responsive user interfaces using React and Bootstrap, React Native for mobile platforms, delivering enhanced usability and ensuring cross-device compatibility. • Deployed scalable applications on Heroku, maintained production environments, and mentored junior developers in backend frameworks, API design, and modern development practices.**
+---
 
-- 🌱 Full Stack Developer: JDB Infotech **• Built a cyber security product for safer browsing. • Mentored a team of 15 developer interns to design, develop, and deploy full-stack client websites.**
+### 🚀 Professional Experience:
 
-- 📝 Full Stack Developer : Zenmonk **• Developed and deployed responsive websites using React, Material-UI, and TypeScript, with support for language switching internationalization using i18n for clients such as Funiber Company Groups. • Built backend systems with Express.js, MongoDB, and PostgreSQL, implementing OpenAPI contracts, asynchronous APIs, and secure data handling through encryption. • Optimized system communication using RabbitMQ, containerized applications with Docker, and enhanced performance via Next.js for server-side rendering and static site generation.**
+- **Full Stack Developer | Detechie Digital**
+  - Architected and optimized backend systems with **Node.js**, **Express.js**, and **MongoDB** to automate workflows and enable real-time student data sync.
+  - Developed and deployed **RESTful APIs** and **webhook-driven workflows** for event-based communication between payment, CRM, and automation tools.
+  - Built responsive **web** and **mobile** apps using **React**, **Bootstrap**, and **React Native**, enhancing cross-device accessibility.
+  - Deployed scalable applications on **Heroku**, ensured production reliability, and mentored junior developers on backend best practices.
 
-- 📫 How to reach me **amanjotkn@gmail.com**
+- **Full Stack Developer | JDB Infotech**
+  - Designed and deployed a cybersecurity product to enable **safer browsing experiences**.
+  - Mentored a team of **15 developer interns**, guiding them across the entire lifecycle from **design to deployment** of full-stack websites.
 
-<h3 align="left">Connect with me:</h3>
+- **Full Stack Developer | Zenmonk Technologies**
+  - Developed responsive websites using **React**, **Material-UI**, **TypeScript**, and implemented **i18n internationalization** support.
+  - Engineered robust backend APIs with **Express.js**, **MongoDB**, and **PostgreSQL** — following **OpenAPI** standards and secure encryption practices.
+  - Optimized system communication with **RabbitMQ**, containerized microservices with **Docker**, and accelerated performance with **Next.js** (SSR + SSG).
+
+---
+
+### 📫 How to reach me:
+- **Email:** [amanjotkn@gmail.com](mailto:amanjotkn@gmail.com)
+- **LinkedIn:** [Amanjot Kaur](https://linkedin.com/in/amanjotkaur31)
+- **LeetCode:** [amanjot_kaur](https://www.leetcode.com/amanjot_kaur)
+
+---
+
+### 🛠️ Tech Stack & Tools:
+
 <p align="left">
-<a href="https://linkedin.com/in/amanjotkaur31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanjotkaur31" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amanjot_kaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amanjot_kaur" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-jot-kaur&show_icons=true&locale=en&layout=compact" alt="aman-jot-kaur" /></p>
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-jot-kaur&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
