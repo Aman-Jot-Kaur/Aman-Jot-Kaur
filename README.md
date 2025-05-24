@@ -62,5 +62,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=FF61D5&center=true&vCenter=true&width=435&lines=Creating+magic+with+code+%F0%9F%92%9A;Learning+everyday+%F0%9F%8C%9F;Building+my+dream+life+one+commit+at+a+time+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=FF61D5&center=true&vCenter=true&lines=Creating+magic+with+code+%F0%9F%92%9A;Learning+everyday+%F0%9F%8C%9F;one+commit+at+a+time+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
