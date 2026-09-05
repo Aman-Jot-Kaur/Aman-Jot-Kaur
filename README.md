@@ -39,7 +39,7 @@ Full Stack Developer with **2.5+ years** of experience building scalable web and
 `PostgreSQL` · `MySQL` · `MongoDB` · `Supabase` · `Firebase` · `Redis` · `RabbitMQ`
 
 #### DevOps & Tools
-`Docker` · `GCP` · `Heroku` · `Git/GitLab` · `Turborepo`
+`Docker` · `AWS` · `Heroku` · `Git/GitLab` · `Turborepo`
 
 ---
 
