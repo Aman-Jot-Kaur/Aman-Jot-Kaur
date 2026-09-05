@@ -6,7 +6,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3p6ZjBhZDZ4a3BwdHE2ODJkcGwwbjRuZXN3aGZobTRzYTI0d3phZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT8qBhrlNooHBYR9f2/giphy.gif" width="200" />
 </p>
 
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 ---
 
