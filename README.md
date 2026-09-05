@@ -12,7 +12,7 @@
 
 ### 👩‍💻 About Me
 
-Full Stack Developer with **3+ years** of experience building scalable web and mobile applications. I work across the entire stack - from React/Next.js frontends to Node.js/Express and Django backends, with expertise in PostgreSQL, MongoDB, and cloud deployment.
+Full Stack Developer with **2,5+ years** of experience building scalable web and mobile applications. I work across the entire stack - from React/Next.js frontends to Node.js/Express and Django backends, with expertise in PostgreSQL, MongoDB, and cloud deployment.
 
 **What I bring:**
 - 🚀 **Full Stack Expertise** - Seamlessly navigate between React, Next.js, Node.js, Express, Django, and databases
