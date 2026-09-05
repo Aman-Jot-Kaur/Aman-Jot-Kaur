@@ -12,7 +12,7 @@
 
 ### 👩‍💻 About Me
 
-Full Stack Developer with **2,5+ years** of experience building scalable web and mobile applications. I work across the entire stack - from React/Next.js frontends to Node.js/Express and Django backends, with expertise in PostgreSQL, MongoDB, and cloud deployment.
+Full Stack Developer with **2.5+ years** of experience building scalable web and mobile applications. I work across the entire stack - from React/Next.js frontends to Node.js/Express and Django backends, with expertise in PostgreSQL, MongoDB, and cloud deployment.
 
 **What I bring:**
 - 🚀 **Full Stack Expertise** - Seamlessly navigate between React, Next.js, Node.js, Express, Django, and databases
@@ -26,17 +26,17 @@ Full Stack Developer with **2,5+ years** of experience building scalable web and
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,python,django,postgresql,mongodb,redis,docker,gcp,git,redux,mui,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,python,django,postgresql,mongodb,redis,rabbitmq,docker,gcp,git,redux,mui,tailwind" />
 </p>
 
 #### Frontend
 `React` · `Next.js` · `React Native` · `Redux/RTK` · `Redux-Observable` · `Material-UI` · `Tailwind` · `i18n` · `HTML/CSS`
 
 #### Backend
-`Node.js` · `Express.js` · `Django REST Framework` · `Celery` · `REST APIs` · `JWT/RBAC` · `OpenAPI/Swagger`
+`Node.js` · `Express.js` · `Django REST Framework` · `REST APIs` · `JWT/RBAC` · `OpenAPI/Swagger`
 
-#### Databases
-`PostgreSQL` · `MySQL` · `MongoDB` · `Supabase` · `Firebase`
+#### Databases & Messaging
+`PostgreSQL` · `MySQL` · `MongoDB` · `Supabase` · `Firebase` · `Redis` · `RabbitMQ`
 
 #### DevOps & Tools
 `Docker` · `GCP` · `Heroku` · `Git/GitLab` · `Turborepo`
@@ -50,7 +50,7 @@ Full Stack Developer with **2,5+ years** of experience building scalable web and
 | **UNIRAC** | Software Engineer | Building full-stack features with Django (backend) and React/TypeScript (frontend). Working with Redis caching, geometric calculations & collision detection for map-based features. Optimized Docker builds (10 mins → 2 mins), migrated React MD → MUI, implemented event-listener cleanup for performance. |
 | **Mersive Technologies** | Software Engineer | Led Firebase → Supabase (PostgreSQL) migration with 40+ REST APIs. Built Turborepo monorepo with shared i18n package across React, Next.js & React Native. Containerized services with Docker. |
 | **Detechie Digital** | Full Stack Developer | Built Node.js/Express + MongoDB backend systems with webhook-driven workflows. Developed admin panels in React and React Native. Built Chrome extension for phishing detection. |
-| **Zenmonk** | Full Stack Developer | Built Express.js + MongoDB/PostgreSQL backends with OpenAPI/Swagger contracts. Developed multilingual React/Next.js websites. Implemented complaint management system with encrypted data handling. Optimized with RabbitMQ & Redis. |
+| **Zenmonk** | Full Stack Developer | Built Express.js + MongoDB/PostgreSQL backends with OpenAPI/Swagger contracts. Developed multilingual React/Next.js websites. Implemented complaint management system with encrypted data handling. Optimized system communication with RabbitMQ and Redis caching. |
 
 ---
 
