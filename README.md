@@ -12,12 +12,12 @@
 
 ### 👩‍💻 About Me
 
-Full Stack Developer with **2.5+ years** of experience building scalable web and mobile applications. I work across the entire stack - from React/Next.js frontends to Node.js/Express and Django backends, with expertise in PostgreSQL, MongoDB, and cloud deployment.
+Full Stack Developer with **3 years** of experience building scalable web and mobile applications. I work across the entire stack - from React/Next.js frontends to Node.js/Express and Django backends, with expertise in PostgreSQL, MongoDB, and cloud deployment.
 
 **What I bring:**
 - 🚀 **Full Stack Expertise** - Seamlessly navigate between React, Next.js, Node.js, Express, Django, and databases
 - 🔧 **Problem Solver** - From geometric calculations to optimizing build times (10 mins → 2 mins), I tackle complex technical challenges
-- 🏗️ **Architecture Mindset** - Built monorepo architectures, led migrations, and designed scalable systems
+- 🏗️ **System Design & Architecture** - Built monorepo architectures with Turborepo, designed event-driven systems with RabbitMQ, implemented caching strategies with Redis, and led database migrations (Firebase → Supabase) with 40+ REST APIs
 - 📊 **Strong Foundation** - 9.78 CGPA with active problem-solving on LeetCode, Codeforces, and CodeChef
 - 🌐 **Remote-Ready** - Experience working in distributed teams across time zones
 
@@ -26,7 +26,7 @@ Full Stack Developer with **2.5+ years** of experience building scalable web and
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,python,django,postgresql,mongodb,redis,rabbitmq,docker,gcp,git,redux,mui,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,python,django,postgresql,mongodb,redis,rabbitmq,docker,aws,git,redux,mui,tailwind" />
 </p>
 
 #### Frontend
@@ -51,6 +51,20 @@ Full Stack Developer with **2.5+ years** of experience building scalable web and
 | **Mersive Technologies** | Software Engineer | Led Firebase → Supabase (PostgreSQL) migration with 40+ REST APIs. Built Turborepo monorepo with shared i18n package across React, Next.js & React Native. Containerized services with Docker. |
 | **Detechie Digital** | Full Stack Developer | Built Node.js/Express + MongoDB backend systems with webhook-driven workflows. Developed admin panels in React and React Native. Built Chrome extension for phishing detection. |
 | **Zenmonk** | Full Stack Developer | Built Express.js + MongoDB/PostgreSQL backends with OpenAPI/Swagger contracts. Developed multilingual React/Next.js websites. Implemented complaint management system with encrypted data handling. Optimized system communication with RabbitMQ and Redis caching. |
+
+---
+
+### 🏗️ System Design Highlights
+
+| Area | What I've Built |
+|------|-----------------|
+| **Monorepo Architecture** | Turborepo monorepo powering 3 applications with shared, strictly-typed i18n package |
+| **Event-Driven Systems** | Webhook-driven workflows for real-time communication with payment gateways and internal dashboards |
+| **Database Migration** | End-to-end Firebase → Supabase (PostgreSQL) migration with 40+ REST APIs, JWT auth with refresh tokens, and access control |
+| **Caching Strategy** | Redis caching for optimized system communication and performance |
+| **Message Queuing** | RabbitMQ for asynchronous communication between services |
+| **Secure Systems** | Encrypted data handling, JWT-based RBAC, and secure API design |
+| **Real-time Features** | Realtime updates, progress indicators, and event-listener cleanup for performance |
 
 ---
 
